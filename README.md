@@ -20,3 +20,5 @@ ls -r -Force
 
 - [x] Sắp xếp thư mục dự án
 - [ ] Upload dự án lên GitHub
+
+> Không upload file .env lên GitHub
